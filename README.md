@@ -14,3 +14,5 @@
   <img align="center" alt="DevS-Sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2306/2306022.png">
   <img align="center" alt="DevS-pic" height="40" style="border-radius:40px;" src="https://cdn-icons-png.flaticon.com/128/4667/4667922.png">
 </div>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
