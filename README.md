@@ -1,4 +1,4 @@
-## Olá, sou o Sérgio. Aprendendo programação, e desenvolvimento em si.
+## Olá, me chamo Sérgio. Aprendendo programação, e desenvolvimento em si.
 <div align="center">
   <a href="https://github.com/web-development-ser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=web-development-ser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
