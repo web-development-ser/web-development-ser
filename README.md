@@ -1,4 +1,6 @@
-## Olá, me chamo Sérgio. Aprendendo programação, e desenvolvimento em si.
+### <em>Olá... seja bem vindo ao meu Git Hub, me chamo Sérgio desenvolvedor Front End e um pouco conhecido no Back End.</em>
+#### <em>Desenvolvedor aprendiz...</em>
+#### <em>Navegação &minus; Bio principal:</br> <a href="">Em breve.</a>
 <div align="center">
   <a href="https://github.com/web-development-ser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=web-development-ser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
