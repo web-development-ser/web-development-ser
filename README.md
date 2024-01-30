@@ -1,5 +1,5 @@
-### <em>Olá... seja bem vindo ao meu Git Hub, me chamo Sérgio desenvolvedor Front End e um pouco conhecido no Back End.</em>
-#### <em>Desenvolvedor aprendiz...</em>
+### <em>Hello... seja bem-vindo ao meu Git Hub, me chamo Sérgio desenvolvedor Front End Júnior, indo aos poucos ao Back End.</em>
+#### <em>Desenvolvedor Júnior...</em>
 #### <em>Navegação &minus; Bio principal:</br> <a href="https://web-development-ser.github.io/repository-full-stack/">Full Stack - Desenvolvimento Web - 2023</a>
 <div align="center">
   <a href="https://github.com/web-development-ser">
